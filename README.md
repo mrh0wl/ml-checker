@@ -5,7 +5,7 @@
 ![Plaform tested][platform-img]
 
 
-## Usage example
+## Installation and Usage
 
 ```
 $ git clone https://github.com/MrH0wl/ml-checker.git
