@@ -2,7 +2,7 @@
 > This repository serves to verify users/emails and passwords in mercadolibre in an automated way.
 
 [![PYTHON Version][py-image]][py-url]
-[![Plaform tested][platform-img]]
+![Plaform tested][platform-img]
 
 
 ## Usage example
