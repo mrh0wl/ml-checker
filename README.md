@@ -23,7 +23,7 @@ $ python3 ml.py
 Correct: the "chromedriver.exe" process was terminated with PID 10948
 Filename: <filename.txt>
 
-```.
+```
 In the entry <filename> you must put the name of the file with users/emails and passwords (without the "<>") in user:pass format.
 
 ## Development setup Linux users
